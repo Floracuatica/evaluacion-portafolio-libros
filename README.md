@@ -20,16 +20,21 @@ Es una API REST construida con **Node.js** y **Express** que permite:
    ```bash
    git clone https://github.com/Floracuatica/evaluacion-portafolio-libros.git
    cd evaluacion-portafolio-libros
-Instalar dependencias:
+
+2. Instalar dependencias:
 
 npm install
-Iniciar el servidor:
+
+3. Iniciar el servidor:
 
 npm start
-El servidor quedará escuchando en http://localhost:3000.
+
+4. El servidor quedará escuchando en http://localhost:3000.
+
 
 Rutas principales
 Registro de usuario
+
 POST /register
 
 Body JSON:
